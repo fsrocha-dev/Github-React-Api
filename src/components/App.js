@@ -1,7 +1,8 @@
 import React from 'react'
+import Repos from './github/ResposContainer'
 
 const App = () => (
-  <h1>Testando meu React agora vai</h1>
+  <Repos></Repos>
 )
 
 export default App
